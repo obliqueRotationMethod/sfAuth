@@ -1,3 +1,3 @@
 # sfAuth
 
-A description of this package.
+Manages SF Auth
